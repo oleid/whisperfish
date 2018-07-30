@@ -71,7 +71,7 @@ Building from source
 
 2. Install `Glide <https://glide.sh/>`_
 
-3. Install Qt 5.7.0 the official `prebuilt package <https://download.qt.io/official_releases/qt/5.7/5.7.0/qt-opensource-linux-x64-android-5.7.0.run>`_
+3. Install Qt 5.7.0 the official `prebuilt package <https://download.qt.io/archive/qt/5.7/5.7.0/qt-opensource-linux-x64-android-5.7.0.run>`_
 
 4. Install `Sailfish OS SDK <https://sailfishos.org/wiki/Application_SDK_Installation>`_ (version
    Beta-1801 or later). Ensure ``~/SailfishOS/vmshare/devices.xml`` exists. If not,
